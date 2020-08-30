@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1><b>¡Hola! Bienvenido 👋</b><h1>
+<h3>Mi nombre es Fabricio, tengo 23 años y estoy dando mis primeros pasos como desarrollador Front End.
+ Estoy en búsqueda de mi primer empleo en el mundo IT.</h3>
+<br>
+ <br>
+Tengo conocimientos en:
+
+✪ HTML
+✪ CSS
+✪ JavaScript
+✪ Diseño UI
+✪ PHP/Laravel
+✪ MySQL
+
+y actualmente estoy capacitándome en  <b>React Js ⚛</b>
+<br>
+
 
 <!--
 **FabriBorgobello/fabriborgobello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
