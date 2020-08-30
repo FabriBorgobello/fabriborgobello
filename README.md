@@ -1,8 +1,8 @@
 <h1><b>¡Hola! Bienvenido 👋</b><h1>
-<h3>Mi nombre es Fabricio, tengo 23 años y estoy dando mis primeros pasos como desarrollador Front End.
- Estoy en búsqueda de mi primer empleo en el mundo IT.</h3>
+<h6>Mi nombre es Fabricio, tengo 23 años y estoy dando mis primeros pasos como desarrollador Front End.
+ Estoy en búsqueda de mi primer empleo en el mundo IT.</h6>
 <br>
- <br>
+<br>
 Tengo conocimientos en:
 
 ✪ HTML
