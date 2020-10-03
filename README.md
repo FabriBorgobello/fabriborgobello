@@ -1,8 +1,7 @@
 <h1><b>¡Hola! Bienvenido 👋</b><h1>
-<h3>Mi nombre es Fabricio, tengo 23 años y estoy dando mis primeros pasos como desarrollador Front End.
- Me encuentro en búsqueda de mi primer empleo en el mundo IT.</h3>
+<h3>Mi nombre es Fabricio, tengo 23 años y soy desarrollador front-end React!.</h3>
 <br>
-<p>Tengo conocimientos en:</p>
+<p>También tengo conocimientos en:</p>
 <ul>
  <li>HTML</li>
  <li>CSS</li>
@@ -12,7 +11,6 @@
  <li>My SQL</li>
 </ul>
 
-<p>y actualmente estoy capacitándome en  <b>React Js ⚛</b></p>
 
 ¡Cualquier consulta no dudes en contactarte!
 <!--
