@@ -6,13 +6,13 @@
  <li>HTML</li>
  <li>CSS</li>
  <li>JavaScript</li>
+ <li>React Js</li>
+ <li>Redux</li>
  <li>Diseño UX / UI</li>
- <li>PHP / Laravel</li>
- <li>My SQL</li>
 </ul>
 
 
-¡Cualquier consulta no dudes en contactarte!
+¡Cualquier consulta no dudes en contactarme!
 <!--
 **FabriBorgobello/fabriborgobello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
