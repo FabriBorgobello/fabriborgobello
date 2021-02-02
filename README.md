@@ -1,15 +1,6 @@
-<h1><b>¡Hola! Bienvenido 👋</b><h1>
-<h3>Mi nombre es Fabricio, tengo 23 años y soy desarrollador front-end React!.</h3>
-<br>
-<p>También tengo conocimientos en:</p>
-<ul>
- <li>HTML</li>
- <li>CSS</li>
- <li>JavaScript</li>
- <li>React Js</li>
- <li>Redux</li>
- <li>Diseño UX / UI</li>
-</ul>
+<h1><b>¡Hi! Welcome 👋</b><h1>
+<h3>My name is Fabricio and I'm a React front end developer!</h3>
+<hr>
 
 
 ¡Cualquier consulta no dudes en contactarme!
