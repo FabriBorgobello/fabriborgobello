@@ -2,4 +2,4 @@
   <hr>
 <h3>UI Designer & Front-end Developer based in Cordoba, Argentina.</h3>
 
-If you wanna get in touch you can contact me on my <a href="https://www.linkedin.com/in/fabriborgobello/">LinkedIn profile</a>.
+If you wanna get in touch you can contact me on my <a href="https://www.linkedin.com/in/fabriborgobello/" target="_blank">LinkedIn profile</a>.
